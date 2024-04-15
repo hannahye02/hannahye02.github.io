@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.paloaltonetworks.jupiter",
-    "sha256_cert_fingerprints":
-    ["F8:7A:1B:2E:BE:84:F0:B5:5E:3E:98:61:3E:1E:9B:B5:3A:20:AB:4F:B6:AF:67:30:12:C5:C9:92:83:B6:7A:58"]
-  }
-}]
